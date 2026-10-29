@@ -1,3 +1,5 @@
+### Name : POOJA D
+### Reg.NO : 212225040301
 # EX---4-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
 ### Aim :
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
