@@ -114,6 +114,12 @@ vi [filename]
 
 ### OUTPUT:
 
+<img width="1920" height="1003" alt="image" src="https://github.com/user-attachments/assets/8abe90ae-5928-4f45-b09d-15ff9f5e5c14" />
+<img width="1920" height="1003" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_29_10_2026_13_42_41" src="https://github.com/user-attachments/assets/10fdb431-b1d8-470c-bc46-5d9a5a9733cf" />
+<img width="1920" height="1003" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_29_10_2026_13_43_09" src="https://github.com/user-attachments/assets/57a46264-8336-41f3-9382-303850945052" />
+<img width="1920" height="1003" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_29_10_2026_13_43_24" src="https://github.com/user-attachments/assets/8213ed3f-6574-4d8f-b712-4668ab249a60" />
+<img width="1920" height="1003" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_29_10_2026_13_43_24" src="https://github.com/user-attachments/assets/17e8a62d-a06c-4c8f-af87-b312d5ef58b9" />
+
 
 
 
